@@ -5,6 +5,10 @@
 
 ### https://israel0688.github.io/urban-octo-telegram-master-israel/Develop/index.html
 
-![Alt screenshot1](urban-octo-telegram-master-israel/screenshot1.png)
+![alt "screenshot1"](https://github.com/israel0688/urban-octo-telegram-master-israel/blob/master/screenshot1.png)
+
+![alt "screenshot2"](https://github.com/israel0688/urban-octo-telegram-master-israel/blob/master/screenshot2.png)
+
+![alt screenshot3](https://github.com/israel0688/urban-octo-telegram-master-israel/blob/master/screenshot3.png)
 
 
